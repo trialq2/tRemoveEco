@@ -1,0 +1,19 @@
+{
+    "context": "server",
+    "identifier": "com.pa.trialq.tRemoveEco",
+    "display_name": "Remove Eco",
+    "description": "Server mod, gives you so much eco you don't need to worry about eco management.",
+    "author": "trialq",
+    "version": "0.1",
+    "build": "67099-main",
+    "date": "2014/06/11",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "id": "tRemoveEco",
+    "priority": 100,
+    "enabled": true
+}

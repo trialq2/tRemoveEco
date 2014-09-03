@@ -1,19 +1,18 @@
 {
     "context": "server",
     "identifier": "com.pa.trialq.tRemoveEco",
-    "display_name": "Remove Eco",
-    "description": "Players start with so much eco, they don't need to worry about eco management",
+    "display_name": "Remove Eco Management",
+    "description": "Players start with so much eco, they don't need to worry about economy management",
     "author": "trialq",
-    "version": "0.1.2",
-    "build": "68568",
-    "date": "2014/07/09",
+    "version": "0.1.4",
+    "build": "71459",
+    "date": "2014/09/03",
     "forum": "https://forums.uberent.com/threads/60762/",
     "signature": "not yet implemented",
     "category": [
         "in-game",
         "server-mod"
     ],
-    "id": "tRemoveEco",
     "priority": 100,
     "enabled": true
 }
